@@ -1,8 +1,8 @@
-# DataRes Spring 25 Research Coding Assessment
+# DataRes Winter 26 Research Coding Assessment
 
 ## Due by April 6th, 2025 @ 11:59 pm PT
 
-### To start, head over to [DataRes_Research_Coding_Assessment.ipynb] and download the notebook. Open it in either Google Colab or Kaggle notebook (I prefer Kaggle because the GPUs are faster) and start coding! This assessment will be done using PyTorch, so apologies if you're more familiar with TensorFlow (although the concepts will still carry over). After you're done, send me the file at yuliaanashkina@g.ucla.edu AND danielavartani@g.ucla.edu with the subject "DataRes Research Application S25".
+### To start, head over to [DataRes_Research_Coding_Assessment.ipynb] and download the notebook. Open it in either Google Colab or Kaggle notebook (I prefer Kaggle because the GPUs are faster) and start coding! This assessment will be done using PyTorch, so apologies if you're more familiar with TensorFlow (although the concepts will still carry over). After you're done, send me the file at yuliaanashkina@g.ucla.edu AND danielavartani@g.ucla.edu with the subject "DataRes Research Application F26".
 
 #
 
@@ -29,4 +29,6 @@ That is what makes the DataRes Research team different from other data science o
   
   W24: Reinforcement Learning for Connect 4 and Atari, RAG for UCLA Course Planning, 
   [ResearchApps.ipynb]: ResearchApps.ipynb
+
+  F25: MoE, CV for Combat gaming, Energy analysis
 
